@@ -1,0 +1,20 @@
+Phonetic vectors: (1018, 64)
+Semantic vectors: (1127, 384)
+Fused vectors: (1017, 384)
+Sentences: 1017
+
+Selected sentences:
+
+RUS:
+1. россия является постоянным членом совета безопасности оон с правом вето; одна из современных великих держав мира.     
+2. в складчатых областях находятся основные запасы металлических руд.
+3. самая высокая когда-либо зафиксированная температура на территории современной россии составила +45,4 °c на метеостанции утта (калмыкия), измерена 12 июля 2010 года.
+4. если довоенный объём промышленного производства российской империи в 1913 году составлял 50 % от немецкого и французского, 20 % английского и по разным оценкам 10—15 % американского, то к 1941 году было построено 9 тыс. заводов, к концу второй пятилетки, через 14 лет после окончания гражданской войны, ссср вышел по объёму промышленного производства на второе место в мире, уступая лишь сша, достигнув 10 % всего мирового промышленного производства.
+5. на выборах 2021 года получила 27 мест.
+
+ENG:
+1. Russia is a permanent member of the UN Security Council with veto power and is one of the major great powers of the modern world.
+2. The main reserves of metallic ores are located in folded geological regions.
+3. The highest temperature ever recorded on the territory of modern Russia was +45.4 °C, measured at the Utta meteorological station in Kalmykia on 12 July 2010.
+4. If, in 1913, the pre-war industrial output of the Russian Empire amounted to 50% of that of Germany and France, 20% of that of the United Kingdom, and, according to various estimates, 10–15% of that of the United States, then by 1941 about 9,000 factories had been built. By the end of the second Five-Year Plan, fourteen years after the end of the Civil War, the USSR had become the world’s second-largest industrial producer, surpassed only by the United States, accounting for 10% of total global industrial output.
+5. In the 2021 elections, it won 27 seats.

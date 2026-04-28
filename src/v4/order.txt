@@ -1,0 +1,5 @@
+2 → build base dataset
+7 → add semantic negatives
+v6 → add hard negatives
+5 → extract features
+6 → train model

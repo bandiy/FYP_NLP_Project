@@ -1,0 +1,29 @@
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# virtual environments
+.venv/
+venv/
+env/
+
+# jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# environment/secrets
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# large/raw data
+data/corpora/
+*.zip
+*.tar
+*.gz

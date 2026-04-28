@@ -45,11 +45,13 @@ Files added by this helper:
 - `data/code_overview.csv` — CSV export of the same table.
 
 To quickly set up run:
+```powershell
 python3.11 -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 python -m spacy download fr_core_news_md
 python -c "import nltk; nltk.download('stopwords')"
+```
 
 Recommended high level workflow
 

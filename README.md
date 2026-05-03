@@ -40,7 +40,7 @@ python -m spacy download fr_core_news_md
 python -c "import nltk; nltk.download('stopwords')"
 ```
 
-Files added by this helper:
+Files added for reading:
 - `docs/appendix_code_overview.md` — Markdown appendix with scripts grouped & ordered by version.
 - `data/code_overview.csv` — CSV export of the same table.
 

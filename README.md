@@ -40,16 +40,18 @@ python -m spacy download fr_core_news_md
 python -c "import nltk; nltk.download('stopwords')"
 ```
 
-Files for reading:
+Files added for reading:
 - `docs/appendix_code_overview.md` — Markdown appendix with scripts grouped & ordered by version.
 - `data/code_overview.csv` — CSV export of the same table.
 
 To quickly set up run:
+```powershell
 python3.11 -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 python -m spacy download fr_core_news_md
 python -c "import nltk; nltk.download('stopwords')"
+```
 
 Recommended high level workflow
 
